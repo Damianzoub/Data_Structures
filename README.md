@@ -1,3 +1,1 @@
-This is a simple implementation of the Data structure -> Double Linked List
-
-It also contains some examples to see if it is working correctly
+This contains code of implementation of some data structures and some examples to check by yourselfs if it works
